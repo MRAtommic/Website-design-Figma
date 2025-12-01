@@ -1,5 +1,5 @@
 # Website-design-Figma
-เป็น Project วิชา USER EXPERIENCE DESIGN โจทย์ให้ออกแบบ Web site อะไรก็ได้ ผมจึงเลือกที่จะออกแบบเว็ปไซต์ Freelance online ด้วย Figma
+เป็น Project วิชา USER EXPERIENCE DESIGN โจทย์ให้ออกแบบ Web site อะไรก็ได้ ผมจึงเลือกที่จะออกแบบเว็ปไซต์ Freelance online ด้วย Figma เพราะเป็นเว็ปที่มีความน่าสนใจ
 <br><br>
 https://www.figma.com/proto/vvKHI2VMWhKnI6xLCKkYF5/UX-UI-final?node-id=1-3&starting-point-node-id=1%3A3&t=kAHW38tvLML70Bk2-1
 <br><br>
